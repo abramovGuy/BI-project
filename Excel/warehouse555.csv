@@ -1,0 +1,8 @@
+﻿warehouseID,Country,City,Size(m^3)
+1,USA,"Moreno Vally,CA","390,000"
+2,USA,"Perris,CA","400,000"
+3,USA,"Elgin,IL","100,000"
+4,USA,"Hebron,KY","50,000"
+5,USA,"Easton,PA","150,000"
+6,Korea,Inchoen,"230,000"
+7,China,Hong Kong,"330,000"

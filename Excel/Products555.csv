@@ -1,0 +1,300 @@
+﻿ProductID,ProductName,brandName,ProductCategory,Rating,Review,ProductPrice(USD)
+1,Calcium,Act,Supplements,4,I Will Purchase Again,47.21
+2,Whey Protien,Action Labs,Sports,2,I Will Purchase Again,40.23
+3,Creams,ACURE,Beauty,3,Not Recommend,17.99
+4,Lip Care,Acwell,Bath,1,I Will Purchase Again,78.37
+5,Floar,Bengay,Grocery,3,Not Recommend,51.31
+6,refresh oil,Bengay,Healthy Home,5,I did not expect this,59.56
+7,Children Health,Beplain,Baby,5,Not Recommend,96.21
+8,Pet Grooming,Bergin Fruit and Nut Company,Pets,4,like the picture,47.32
+9,Garlic,Better Life,Supplements,4,like the picture,33.56
+10,Bee Propolis,Better Than Bouillon,Supplements,2,I did not expect this,53.21
+11,Omega3,Act,Supplements,3,I did not expect this,28.65
+12,Fish Oil,Beyond BodiHeat,Supplements,4,I Will Purchase Again,57.07
+13,Zinc,Act,Supplements,2,like the picture,65.02
+14,VitaminC,Act,Supplements,5,I did not expect this,27.34
+15,BCAA,Bio Nutrition,Sports,1,Not Recommend,75.01
+16,Cleanser,Bio Nutrition,Beauty,5,Not Recommend,80.98
+17,Showe Shampo,Bio-Oil,Bath,3,Recommend,14.08
+18,Coffe,Bio-Strath,Grocery,5,I Will Purchase Again,49.53
+19,refresh oil,Biochem,Healthy Home,1,like the picture,72.97
+20,Bath&Skin,Bioderma,Baby,4,I did not expect this,84.18
+21,Pet Food,Act,Pets,2,Recommend,10.29
+22,Cleanser,Bioglan,Beauty,1,like the picture,82.91
+23,Creams,Biokleen,Beauty,4,Recommend,88.58
+24,Makeup Brushes,Bionaturae,Beauty,5,Not Recommend,72.24
+25,Makeup Brushes,Act,Beauty,3,Not Recommend,28.26
+26,Creams,Bioray Inc,Beauty,5,Recommend,54.32
+27,Fiber,Biore,Supplements,3,Not Recommend,30.86
+28,Sport Multivitamins,BioSchwartz,Sports,2,Not Recommend,74.45
+29,Creams,BioSil,Beauty,5,I Will Purchase Again,88.08
+30,Hair Care,Biosilk,Bath,1,I Will Purchase Again,54.57
+31,Floar,BioTech,Grocery,4,like the picture,65.66
+32,refresh oil,Biochem,Healthy Home,3,I Will Purchase Again,22.96
+33,Moms&Maternity,Bioderma,Baby,1,I did not expect this,96.75
+34,Pet Supplement,Biotrue,Pets,1,I Will Purchase Again,93.55
+35,Message Oil,Birch Benders,Bath,3,Recommend,42.18
+36,Lip Care,Blackwood ,Bath,1,I did not expect this,20.09
+37,Showe Shampo,Act,Bath,4,I Will Purchase Again,21.35
+38,Showe Shampo,Blistex,Bath,5,Not Recommend,91.89
+39,Hair Care,Blithe,Bath,1,like the picture,17.24
+40,Omega3,Dermal,Supplements,1,I Will Purchase Again,82.17
+41,Sport Bars,Dermarest,Sports,2,Recommend,79.67
+42,Creams,Act,Beauty,4,I did not expect this,72.03
+43,Oral Care,Bioderma,Bath,4,Recommend,33.15
+44,Nuts,Desitin,Grocery,5,I did not expect this,21
+45,refresh oil,Deva,Healthy Home,3,like the picture,18.14
+46,Feeding,DevaCurl,Baby,4,Recommend,85.74
+47,Pet Grooming,Dickinson Brands,Pets,4,like the picture,97.67
+48,Tea,Fixodent,Grocery,1,Recommend,40.99
+49,Honey,FlapJacked,Grocery,3,Not Recommend,86.08
+50,Coffe,Flat Tummy,Grocery,1,Recommend,72.45
+51,Butter,Flintstones,Grocery,3,like the picture,63.8
+52,Butter,Flora,Grocery,3,Not Recommend,65.22
+53,Biotin,Flower Essence Services,Supplements,3,I did not expect this,14.64
+54,Sport Multivitamins,Focus Factor,Sports,5,Not Recommend,23.4
+55,Makeup Brushes,Fody,Beauty,5,like the picture,93.67
+56,Body Oil,Food For Life,Bath,4,I did not expect this,89.59
+57,Honey,Act,Grocery,5,Recommend,29.55
+58,refresh oil,Force Factor,Healthy Home,3,Not Recommend,83.53
+59,Feeding,Bioderma,Baby,3,Recommend,86.06
+60,Pet Grooming,Heimish,Pets,3,I Will Purchase Again,25.71
+61,refresh oil,Helimix,Healthy Home,4,I did not expect this,97.62
+62,refresh oil,Hello,Healthy Home,2,I did not expect this,12.43
+63,refresh oil,Helloganic,Healthy Home,5,I Will Purchase Again,89.55
+64,refresh oil,Hempz,Healthy Home,2,I Will Purchase Again,51.33
+65,refresh oil,Herb Pharm,Healthy Home,3,I did not expect this,75.43
+66,Garlic,"Herbal Answers, Inc",Supplements,3,Recommend,22.49
+67,Sport Bars,Herbal Essences,Sports,2,I did not expect this,24.26
+68,Cleanser,Herban Cowboy,Beauty,2,Not Recommend,65.43
+69,Hair Care,Act,Bath,2,I Will Purchase Again,65.07
+70,Coconut Oil,Herbs Etc.,Grocery,3,I Will Purchase Again,64.7
+71,refresh oil,Herbs for Kids,Healthy Home,5,I Will Purchase Again,51.04
+72,Moms&Maternity,Heritage Store,Baby,4,like the picture,27.32
+73,Pet Grooming,Hero Cosmetics,Pets,5,I Will Purchase Again,50.99
+74,Children Health,Bengay,Baby,4,like the picture,48.89
+75,Moms&Maternity,Highground Coffee,Baby,1,like the picture,15.89
+76,Feeding,HighKey,Baby,1,Recommend,66.06
+77,Moms&Maternity,Himalaya,Baby,2,I Will Purchase Again,51.5
+78,Feeding,Himalayan Chandra,Baby,5,I did not expect this,77.01
+79,Omega3,Himalayan Institute,Supplements,3,I Will Purchase Again,72.75
+80,MCT Oil,Himalayan Pet Supply,Sports,4,like the picture,63.51
+81,Cleanser,Hobe Labs,Beauty,1,like the picture,77.11
+82,Hair Care,Holika Holika,Bath,2,like the picture,87.54
+83,Floar,Holistic Blend,Grocery,5,Not Recommend,80.53
+84,refresh oil,Biochem,Healthy Home,3,I Will Purchase Again,75.48
+85,Children Health,Homeolab USA,Baby,3,Recommend,23.73
+86,Pet Supplement,Honees,Pets,3,like the picture,23.64
+87,Pet Grooming,Honey Belle,Pets,2,Not Recommend,77.51
+88,Pet Supplement,Honey Gardens,Pets,1,I did not expect this,98.76
+89,Pet Supplement,Honeyskin,Pets,2,I Will Purchase Again,39.94
+90,Pet Supplement,Hot Kid,Pets,5,Not Recommend,41.83
+91,Pet Supplement,Houston Enzymes,Pets,3,Recommend,65.42
+92,CoQ10,Act,Supplements,4,I Will Purchase Again,41.67
+93,Sport Multivitamins,Huangjisoo,Sports,3,I did not expect this,68.12
+94,Creams,Humphreys,Beauty,1,like the picture,85.8
+95,Message Oil,Hurraw!,Bath,3,I Will Purchase Again,69.06
+96,Nuts,Huxley,Grocery,5,I Will Purchase Again,79.95
+97,refresh oil,Huy Fong Foods Inc.,Healthy Home,2,I Will Purchase Again,77.66
+98,Moms&Maternity,HVMN,Baby,4,like the picture,41.71
+99,Pet Grooming,Hyalogic LLC,Pets,4,Recommend,68.71
+100,Moms&Maternity,HydroJug,Baby,1,Not Recommend,58.67
+101,Moms&Maternity,Hydroxycut,Baby,2,I did not expect this,38.37
+102,Children Health,Hyalogic LLC,Baby,4,Recommend,34.14
+103,Moms&Maternity,Hyalogic LLC,Baby,2,I did not expect this,38.39
+104,Moms&Maternity,Hyperbiotics,Baby,2,Recommend,59.48
+105,VitaminE,Act,Supplements,5,I did not expect this,97.41
+106,Whey Protien,Back to top,Sports,1,Recommend,61.22
+107,Scrub,I Dew Care,Beauty,3,Recommend,30.99
+108,Body Oil,Bengay,Bath,4,Recommend,22.51
+109,Nuts,Highground Coffee,Grocery,5,Not Recommend,73.31
+110,refresh oil,Biochem,Healthy Home,4,Recommend,32.09
+111,Moms&Maternity,If You Care,Baby,1,like the picture,12.74
+112,Pet Food,iHerb Brands,Pets,5,Recommend,27.85
+113,VitaminC,Highground Coffee,Supplements,1,like the picture,37.36
+114,Minerals,Illiyoon,Supplements,4,I Will Purchase Again,87.44
+115,VitaminE,Ilsang Doctor,Supplements,1,Recommend,36.92
+116,Calcium,Act,Supplements,2,Recommend,17.55
+117,VitaminE,Indie Lee,Supplements,4,Not Recommend,76.26
+118,Biotin,Inecto,Supplements,1,Not Recommend,44.25
+119,Sport Multivitamins,Innate Response Formulas,Sports,1,Not Recommend,12.7
+120,Makeup Brushes,Innisfree,Beauty,2,I did not expect this,96.38
+121,Oral Care,InnovixLabs,Bath,1,Not Recommend,53.05
+122,Coconut Oil,InstaNatural,Grocery,2,I did not expect this,19.32
+123,refresh oil,KLAVUU,Healthy Home,4,I did not expect this,10.55
+124,Moms&Maternity,Knorr,Baby,3,Recommend,92.22
+125,Pet Food,Knox,Pets,2,Not Recommend,58.43
+126,Coconut Oil,Kodiak Cakes,Grocery,2,I did not expect this,88.4
+127,Butter,Koelf,Grocery,2,like the picture,71.36
+128,Floar,Koelf,Grocery,3,like the picture,87.24
+129,Coconut Oil,Kolorex,Grocery,5,Recommend,93.78
+130,Nuts,KOS,Grocery,4,I Will Purchase Again,46.85
+131,Biotin,Highground Coffee,Supplements,4,like the picture,35.2
+132,Sport Multivitamins,Kracie,Sports,5,Not Recommend,10.32
+133,Creams,Bengay,Beauty,5,I did not expect this,84.53
+134,Lip Care,Bengay,Bath,4,Recommend,36.17
+135,Honey,Kyolic,Grocery,3,Recommend,53.01
+136,refresh oil,Live Clean,Healthy Home,2,I Will Purchase Again,43.71
+137,Feeding,Live Conscious,Baby,5,Not Recommend,16.42
+138,Pet Food,LIVIVA,Pets,2,I did not expect this,11.14
+139,refresh oil,Livlo,Healthy Home,5,I Will Purchase Again,50.39
+140,refresh oil,Llama Naturals,Healthy Home,1,Recommend,27.2
+141,refresh oil,Longreen Corporation,Healthy Home,3,I Will Purchase Again,59.32
+142,refresh oil,Lululun,Healthy Home,1,Recommend,36.07
+143,refresh oil,Lumify,Healthy Home,2,Not Recommend,29.89
+144,Biotin,Lumin,Supplements,2,like the picture,71.92
+145,BCAA,Lumineux Oral Essentials,Sports,3,Recommend,65.87
+146,Makeup Brushes,Lundberg,Beauty,4,Recommend,28.52
+147,Hair Care,Bengay,Bath,3,I did not expect this,94.28
+148,Nuts,Koelf,Grocery,1,Recommend,44.37
+149,refresh oil,Biochem,Healthy Home,5,like the picture,95.3
+150," Instant Herbal Beverage with Dandelion, Caffeine Free,",Yogi Tea,Grocery,1,I Will Purchase Again,53.63
+151," Stomach Ease, Caffeine Free, 16 Tea Bags,",Traditional Medicinals,Grocery,2,I Will Purchase Again,90.17
+152," Relaxation Teas, Organic Raspberry Leaf, Naturally Caffeine Free, 16 Wrapped Tea Bags,",Yogi Tea,Grocery,5,I did not expect this,62.13
+153," Organic Ginger, Caffeine Free, 16 Tea Bags,",Hana Beverages,Grocery,1,I did not expect this,14.7
+154," Turmeric & Ginger Latte, Non-Coffee Superfood Beverage,",Traditional Medicinals,Grocery,2,like the picture,40.91
+155," Herbal Teas, Organic Lemon Balm, Naturally Caffeine Free, 16 Wrapped Tea Bags,",Traditional Medicinals,Grocery,1,Recommend,77.84
+156," Herbal Teas, Organic Spearmint, Naturally Caffeine Free, 16 Wrapped Tea Bags,",Yogi Tea,Grocery,2,I Will Purchase Again,19.66
+157," Soothing Caramel Bedtime, Caffeine Free, 16 Tea Bags,",21st Century,Grocery,5,Recommend,57.06
+158," Herbal Slimming Tea, Honey Lemon, Caffeine Free, 24 Tea Bags,",Prince of Peace,Grocery,3,I did not expect this,72.08
+159," 100% Organic White Tea, 100 Sachets,",Yogi Tea,Grocery,4,Not Recommend,24.3
+160," Egyptian Licorice, Caffeine Free, 16 Tea Bags,",Bob's Red Mill,Grocery,1,Recommend,91.74
+161," Mighty Tasty Hot Cereal, Gluten Free,",Bob's Red Mill,Grocery,3,like the picture,14.2
+162," Organic Extra Thick Rolled Oats, Whole Grain,",Bob's Red Mill,Grocery,4,Recommend,60.36
+163," Organic Old Fashioned Rolled Oats, Whole Grain,",Bob's Red Mill,Grocery,5,Not Recommend,31.92
+164," Organic Hot Fiber Oat Bran Hot Cereal,",Bob's Red Mill,Grocery,4,like the picture,45.15
+165," Organic Scottish Oatmeal,",Bob's Red Mill,Grocery,5,I Will Purchase Again,78.95
+166," 7 Grain Hot Cereal,",Bob's Red Mill,Grocery,2,Not Recommend,73.07
+167," Extra Thick Rolled Oats, Whole Grain,",Bob's Red Mill,Grocery,1,I did not expect this,81.84
+168," Organic Creamy Buckwheat Hot Cereal, Whole Grain,",Bob's Red Mill,Grocery,4,Recommend,17.34
+169," Pancake Mix, Gluten Free,",Bob's Red Mill,Grocery,5,I Will Purchase Again,90.02
+170," 10 Grain Pancake & Waffle Mix, Whole Grain,",Earth's Best,Grocery,3,Recommend,94.42
+171," Organic Whole Grain Oatmeal Cereal with Bananas,",Bob's Red Mill,Grocery,1,Not Recommend,22.27
+172," Steel Cut Oats, Gluten Free,",Bob's Red Mill,Grocery,1,I Will Purchase Again,71.18
+173," Quick Cooking Oats, Gluten Free,",Bob's Red Mill,Grocery,2,I did not expect this,81.97
+174," Organic Kamut Hot Cereal, Whole Grain,",Bob's Red Mill,Grocery,4,Not Recommend,27.77
+175," Buttermilk Pancake & Waffle Mix, Whole Grain,",Bob's Red Mill,Grocery,4,I Will Purchase Again,85.36
+176," Organic Corn Grits, Polenta,",FlapJacked,Grocery,4,I did not expect this,87.68
+177," Protein Pancake and Baking Mix, Buttermilk,",Bob's Red Mill,Grocery,3,Recommend,54.15
+178," Protein Pancake & Waffle Mix,",Bob's Red Mill,Grocery,1,Recommend,89.64
+179," Apple Blueberry Granola, Gluten Free,",Enjoy Life Foods,Grocery,1,I Will Purchase Again,61.97
+180," Chocolate Flavored Confectionary Bars, Ricemilk Crunch,",Valor,Grocery,1,I Will Purchase Again,81.33
+181," 0% Sugar Added, Milk Chocolate with Almonds,",Chocolove,Grocery,4,like the picture,27.9
+182," Ginger Crystallized in Dark Chocolate, 65% Cocoa,",Endangered Species Chocolate,Grocery,1,Recommend,90.72
+183," Dark Chocolate Bites, Sea Salt & Almonds, 72% Cocoa, 12 Wrapped Pieces,",The Ginger People,Grocery,1,like the picture,47.18
+184," Gin Gins, Hard Ginger Candy, Double Strength,",YumEarth,Grocery,2,Not Recommend,92.54
+185," Organic Sour Beans, Assorted Flavors, 10 Snack Packs,",Honees,Grocery,3,Recommend,43.49
+186," Milk & Honey Filled Drops,",Chocolove,Grocery,5,I Will Purchase Again,90.88
+187," Coffee Crunch in Dark Chocolate, 55% Cocoa,",YumEarth,Grocery,5,Recommend,83.79
+188," Organic Licorice, Pomegranate,",YumEarth,Grocery,1,Recommend,34.58
+189," Organics, Sour Pops, Assorted Flavors, 14 Pops,",Enjoy Life Foods,Grocery,3,Recommend,46.81
+190," Chocolate Flavored Confectionary Bars, Ricemilk,",Atkins,Grocery,3,Not Recommend,45.75
+191," Endulge, Chocolate Peanut Candies, 5 Packs,",Alter Eco,Grocery,5,Not Recommend,37.67
+192," Organic Chocolate Bar, Deep Dark Salted Almonds, 70% Cocoa,",Little Secrets,Grocery,1,like the picture,58.53
+193," Dark Chocolate Crispy Wafer, Sea Salt,",Valor,Grocery,5,Recommend,34.4
+194," Intense Dark Chocolate, 70% Cacao,",Chimes,Grocery,4,I did not expect this,64.26
+195," Ginger Chews, Orange,",Zollipops ,Grocery,2,I Will Purchase Again,66.91
+196," The Clean Teeth Pops, Strawberry, Orange, Raspberry, Cherry, Grape, Pineapple, Approx. 15 Pops,",Chocolove,Grocery,5,Not Recommend,23.37
+197," Chilies & Cherries in Dark Chocolate, 55% Cacao,",Valor,Grocery,5,Not Recommend,13.16
+198," Dark Chocolate, 70% Cacao, With Caramel and Sea Salt,",YumEarth,Grocery,3,I did not expect this,37.08
+199," Organic Pops, Assorted Fruits Flavors, 300 Pops,",Little Secrets,Grocery,2,Recommend,89.63
+200," Dark Chocolate Pieces, Toasted Coconut,",YumEarth,Grocery,3,like the picture,57.13
+201," Organic Sour Twists, Watermelon Lemonade, 10 Snack Packs,",YumEarth,Grocery,4,I did not expect this,39.4
+202," Gummy Bears, Pomegranate Pucker,",YumEarth,Grocery,3,I Will Purchase Again,17.72
+203," Organic Fruit Snacks, 5 Packs,",YumEarth,Grocery,1,like the picture,87.54
+204," Gummy Bears, Assorted Flavors, 50 Snack Packs,",HealthSmart Foods,Grocery,1,Recommend,37.43
+205," Chocorite, Chocolate Crispy Caramel, 16 Count, 1,",Little Secrets,Grocery,4,I did not expect this,11.93
+206," Dark Chocolate Pieces, Peanut Butter,",Foods Alive,Grocery,5,Not Recommend,51.39
+207," Superfoods, Black Sesame Seeds,",Manitoba Harvest,Grocery,5,Recommend,88.05
+208," Hemp Hearts, Shelled Hemp Seeds, Delicious Nutty Flavor,",Manitoba Harvest,Grocery,4,like the picture,92.67
+209," Hemp Hearts, Shelled Hemp Seeds, Delicious Nutty Flavor,",Bergin Fruit and Nut Company,Grocery,2,I did not expect this,82.83
+210," Almonds Roasted, No Salt,",Now Foods,Grocery,5,I did not expect this,23.27
+211," Real Food, Raw Energy Nut Mix, Unsalted,",Navitas Organics,Grocery,5,I did not expect this,35.97
+212," Organic Hemp Seeds,",Bergin Fruit and Nut Company,Grocery,5,Recommend,90.92
+213," Raw Sliced Almonds,",Rawmio,Grocery,3,Recommend,25.54
+214," Chocolate Covered Sprouted Almonds,",Bergin Fruit and Nut Company,Grocery,4,I Will Purchase Again,71.44
+215," Cashews Roasted & Salted,",Navitas Organics,Grocery,4,Recommend,69.93
+216," Organic Cashew Nuts,",Sahale Snacks,Grocery,4,like the picture,41.54
+217," Raspberry Crumble Cashew Mix,",Sahale Snacks,Grocery,2,Not Recommend,14.9
+218," Trail Mix, Classic Fruit + Nut,",Sahale Snacks,Grocery,3,I Will Purchase Again,75.75
+219," Trail Mix, Classic Fruit + Nut Blend, 9 Packs,",Rawmio,Grocery,5,Recommend,41.91
+220," Chocolate Covered Sprouted Hazelnuts,",Nutiva,Grocery,4,I Will Purchase Again,19.41
+221," Organic Hemp Seed, Raw Shelled,",Bergin Fruit and Nut Company,Grocery,4,Not Recommend,43
+222," Raw Cashews,",Now Foods,Grocery,3,I Will Purchase Again,47.71
+223," Real Food, Honey Roasted Pecans,",Now Foods,Grocery,4,Not Recommend,87.8
+224," Roasted Sunflower Seeds, Unsalted,",Sahale Snacks,Grocery,4,Not Recommend,57.6
+225," Pomegranate Vanilla Flavored Cashews, Glazed Mix, 9 Packs,",Made in Nature,Grocery,1,I did not expect this,14.71
+226," Organic Nuts Over Fruit, Pomegranate Ginger Supersnacks,",Wilderness Poets,Grocery,3,Recommend,81.07
+227," California Almonds,",Sahale Snacks,Grocery,1,Recommend,60.97
+228," Glazed Mix, Honey Almonds, 9 Packs,",Now Foods,Grocery,3,Recommend,80.64
+229," Real Food, Roasted Almonds, with Sea Salt,",Eden Foods,Grocery,1,I Will Purchase Again,89.85
+230," Organic Tamari Almonds, Dry Roasted,",Bergin Fruit and Nut Company,Grocery,4,I did not expect this,49.8
+231," Organic Raw Pepitas,",Bergin Fruit and Nut Company,Grocery,5,like the picture,29.85
+232," Almonds Roasted & Salted,",Made in Nature,Grocery,5,Recommend,42.39
+233," Organic Coconut Chips, Maple Vanilla Supersnacks,",Sea Tangle Noodle Company,Grocery,4,like the picture,11.57
+234," Konaberry Noodles,",Eden Foods,Grocery,1,like the picture,63.91
+235," Organic, Dried Blueberries,",Organic Traditions,Grocery,1,I did not expect this,86.06
+236," Dried Jujube Fruit,",Sea Tangle Noodle Company,Grocery,1,Recommend,97.62
+237," Mixed Sea Vegetables,",Gaea,Grocery,3,I Will Purchase Again,94.03
+238," Greek Olives, Pitted Mixed Olives, Marinated With Basil and Lemon,",Brothers-All-Natural,Grocery,2,I did not expect this,22.71
+239," Freeze Dried - Fruit Crisps, Strawberry , 12 Single-Serve Bags,",Natierra,Grocery,4,Recommend,99.5
+240," Organic Freeze-Dried, Chocolate Strawberry Slices,",Now Foods,Grocery,3,like the picture,54.53
+241," Real Food, Mango Slices,",SeaSnax,Grocery,1,like the picture,19.72
+242," Organic Premium Roasted Seaweed Snack, Original,",Fruit Bliss,Grocery,4,like the picture,59.5
+243," Organic, Dried & Pitted French Plums,",Maine Coast Sea Vegetables,Grocery,4,like the picture,57.38
+244," Alaria, Wild Atlantic Wakame,",Made in Nature,Grocery,1,I did not expect this,48.3
+245," Organic Dried Apple Rings, Hardcored Supersnacks,",Maine Coast Sea Vegetables,Grocery,2,I did not expect this,17.85
+246," Organic, Sea Seasonings, Kelp Granules,",Bubba's Fine Foods,Grocery,5,I did not expect this,96.08
+247," 'Nana Chips, Not-Cho Nacho,",Bubba's Fine Foods,Grocery,5,Recommend,33.56
+248," 'Nana Chips, Blazing Buffalo,",Navitas Organics,Grocery,1,I Will Purchase Again,83.81
+249," Organic Goji Berries,",Made in Nature,Grocery,2,like the picture,66.66
+250," Organic Figgy Pops, Cranberry Pistachio Supersnacks,",Bubba's Fine Foods,Grocery,3,Not Recommend,30.63
+251," 'Nana Chips, Grand Garlic Parm,",Made in Nature,Grocery,5,like the picture,94.63
+252," Organic Figgy Pops, Ch-Ch-Chery Supersnacks,",SeaSnax,Grocery,4,I did not expect this,87.79
+253," Grab & Go, Premium Roasted Seaweed Snack, Wasabi, 6 Pack,",Edward & Sons,Grocery,5,Not Recommend,33.47
+254," Organic Young Jackfruit, Unseasoned Pieces,",Natierra,Grocery,1,like the picture,21.62
+255," Organic Freeze-Dried, Blueberries,",The Ginger People,Grocery,4,Not Recommend,41.19
+256," Gin Gins, Chewy Ginger Candy, Hot Coffee,",The Ginger People,Grocery,3,I did not expect this,67.4
+257," Gin Gins, Ginger Candy, Super Strength,",Edward & Sons,Grocery,1,like the picture,30.69
+258," Organic Young Jackfruit, Unseasoned Shredded,",Edward & Sons,Grocery,4,I did not expect this,10.54
+259," Organic Young Jackfruit, Unseasoned Shredded,",California Gold Nutrition,Grocery,5,like the picture,94.4
+260," Organic Mango, Ready to Eat Dried Slices,",SeaSnax,Grocery,4,like the picture,82.28
+261," SeaVegi, Seaweed Salad Mix,",Fruit Bliss,Grocery,2,like the picture,53.16
+262," Organic, Dried & Pitted Fruit Medley, Apricots, Plums and Figs,",Natierra,Grocery,5,Recommend,83.7
+263," Organic Freeze-Dried, Pineapples,",Simply Gum,Grocery,3,I did not expect this,64.13
+264," Mints, Ginger,",Nature's Wild Organic,Grocery,4,Recommend,28.24
+265," All Natural, Snacking Fruit & Nut Bites, Fit Balls, Figs + Walnuts + Chia Seeds,",Made in Nature,Grocery,3,I Will Purchase Again,66.35
+266," Organic Nuts Over Fruit, Pomegranate Ginger Supersnacks,",The Ginger People,Grocery,1,Not Recommend,49.38
+267," Ginger Rescue Shots, Coconut,",Chimes,Grocery,2,I did not expect this,88
+268," Ginger Chews, Peanut Butter,",Fruit Bliss,Grocery,3,Recommend,15.61
+269,"  Soft & Juicy Figs, Organic & Dried,",Made in Nature,Grocery,3,Recommend,47.3
+270," Organic Dried Pineapple, Bold & Gold Supersnacks,",Navitas Organics,Grocery,5,Not Recommend,31.65
+271," Organic Goji Berries,",Simply Gum,Grocery,3,like the picture,12.43
+272," Gum, Natural Ginger,",Karen's Naturals,Grocery,1,Recommend,88.42
+273," Organic Just Blueberries, Freeze-Dried Fruit,",Eden Foods,Grocery,1,I did not expect this,74.49
+274," Selected, Dried Cherries Montmorency Tart,",Maine Coast Sea Vegetables,Grocery,3,I Will Purchase Again,47.73
+275," Nori, 7 Sheets,",St. Dalfour,Grocery,3,like the picture,85.83
+276," Super Plump Premium Cranberries,",Nature's Wild Organic,Grocery,3,Not Recommend,31.62
+277," Wild & Raw, Sun-Dried, Organic Turkish Apricots,",Earth Circle Organics,Grocery,1,Not Recommend,65.17
+278," Organic Nori Sheets, 50 Sheets,",Bob's Red Mill,Grocery,1,Recommend,36.13
+279," Potato Flakes, Instant Mashed Potatoes,",Now Foods,Grocery,2,I Will Purchase Again,18.83
+280," Real Food, Organic Crystallized Ginger Slices,",Navitas Organics,Grocery,5,Recommend,51.95
+281," Organic Goji Powder,",Stoneridge Orchards,Grocery,1,Not Recommend,32.86
+282," Organic, Mixed Berries,",Eden Foods,Grocery,1,Not Recommend,49.22
+283," Selected, Umeboshi Paste, Pickled Plum Puree,",Stoneridge Orchards,Grocery,3,Not Recommend,13.55
+284," Montmorency Cherries,",Stoneridge Orchards,Grocery,4,Not Recommend,36.23
+285," Sliced Peaches, Dried Tree-Ripened Summer Peaches,",Seapoint Farms,Grocery,1,I did not expect this,36.44
+286," Dry Roasted Edamame, Sea Salt, 12 Packs,",Made in Nature,Grocery,3,Not Recommend,91.47
+287," Organic Fruit Fusion, Superberry Blast Supersnacks,",Fruit Bliss,Grocery,1,like the picture,50.83
+288," Organic & Dried Tomato Halves,",Now Foods,Grocery,3,Recommend,49.01
+289," Real Food, Crystallized Ginger Dices,",Karen's Naturals,Grocery,1,Recommend,16.79
+290," Organic Just Corn,",Stoneridge Orchards,Grocery,4,I Will Purchase Again,61.79
+291," Berry Mix,",Navitas Organics,Grocery,5,I did not expect this,91.89
+292," Organic Golden Berries,",Bergin Fruit and Nut Company,Grocery,5,I Will Purchase Again,76.74
+293," Large Apricots,",Enjoy Life Foods,Grocery,2,I Will Purchase Again,19.39
+294," Soft Baked Cookies, Gingerbread Spice,",Karen's Naturals,Grocery,4,I did not expect this,16.34
+295," Organic Just Raspberries,",Karen's Naturals,Grocery,5,I did not expect this,55.04
+296," Just Tomatoes, Premium,",Fruit Bliss,Grocery,1,I Will Purchase Again,99.31
+297," Organic, Dried & Pitted Apricots,",Brothers-All-Natural,Grocery,5,I did not expect this,60.37
+298," Freeze-Dried - Fruit Crisps, Fuji Apples, 12 Single-Serve Bags,",Dragon Herbs,Grocery,3,I Will Purchase Again,63.57
+299," Heaven Mountain Goji Berries,",Dragon Herbs,Grocery,1,I Will Purchase Again,78.15
